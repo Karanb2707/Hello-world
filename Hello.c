@@ -1,5 +1,6 @@
 #include<studio.h>
 void main()
 {
-  printf("Hello World");
+    printf("Hello world");
+    ptint("\nThis is a basic program");
 }
